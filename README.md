@@ -1,5 +1,7 @@
 ## Olá! Me chamo Ghabriell Luz.
+![Ghabriell Luz](Ghabriell.png)
 
+---
 ### Formação 👨‍🎓
 - Estudante de Ciência da Computação na [Universidade Federal de Lavras](https://ufla.br/).
 ---
